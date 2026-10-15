@@ -1,0 +1,6 @@
+{
+  "name": "CropWaste2Value",
+  "description": "Digital marketplace connecting farmers with buyers to convert agricultural residues and weather-affected crop materials into market value.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
